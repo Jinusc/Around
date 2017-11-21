@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;service&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/src/github.com" />
+      <root url="file://$USER_HOME$/src/gopkg.in" />
+      <root url="file://$USER_HOME$/src/golang.org" />
+      <root url="file://$USER_HOME$/src/google.golang.org" />
+      <root url="file://$USER_HOME$/src/cloud.google.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/src/github.com" />
+      <root url="file://$USER_HOME$/src/gopkg.in" />
+      <root url="file://$USER_HOME$/src/golang.org" />
+      <root url="file://$USER_HOME$/src/google.golang.org" />
+      <root url="file://$USER_HOME$/src/cloud.google.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
