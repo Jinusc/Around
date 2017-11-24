@@ -21,7 +21,7 @@ const (
 	PROJECT_ID = "newaround-186823"
 	BT_INSTANCE = "newaround-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.185.18.112:9200"
+	ES_URL = "http://35.196.72.107:9200"
 )
 
 type Location struct {
